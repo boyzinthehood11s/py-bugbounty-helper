@@ -1,0 +1,4 @@
+https://example.com/index.php
+https://example.com/login.php?user=test
+https://example.com/search?q=admin
+https://example.com/about
